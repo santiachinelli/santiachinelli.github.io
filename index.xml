@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on SantiBlog</title>
-    <link>santiachinelli.github.io/</link>
+    <link>/</link>
     <description>Recent content in Home on SantiBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="santiachinelli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This</title>
-      <link>santiachinelli.github.io/posts/this/</link>
+      <link>/posts/this/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.io/posts/this/</guid>
+      <guid>/posts/this/</guid>
       <description>Hey what&amp;rsquo;s up Ballbags It&amp;rsquo;s me, ya boi, Santi.
 Guess what? I almost have some idea of what I&amp;rsquo;m doing with this thing now. Turns out, all I need is a beer and some disco music to actually get down to the business of get my blog upright.</description>
     </item>
     
     <item>
       <title>Markdown Guide (modified)</title>
-      <link>santiachinelli.github.io/posts/2018-08-30-markdown-guide/</link>
+      <link>/posts/2018-08-30-markdown-guide/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>santiachinelli.github.io/posts/2018-08-30-markdown-guide/</guid>
+      <guid>/posts/2018-08-30-markdown-guide/</guid>
       <description>An h1 header Paragraphs are separated by a blank line.
 2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
  this one that one the other one  Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.
