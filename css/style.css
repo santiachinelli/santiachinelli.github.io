@@ -23,16 +23,19 @@ output:
 /* Header and Footer */
 .menu li { display: inline-block; }
 .article-meta, .menu a {
-  text-decoration: none;
-  background: #E8DBC5;
-  color: #000;
-  padding: 5px;
-  border-radius: 5px;
-  border-style: dotted;
-  border-width: 1px;
-  margin-bottom: 20px;
+text-decoration: none;
+background: #FDFDFD;
+color: #000;
+padding: 3px;
+border-radius: 5px;
+border-style: solid;
+border-width: 2px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+margin-bottom: 20px;
 }
-
 .terms { font-size: .9em; }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
