@@ -38,23 +38,7 @@
   </url>
   
   <url>
-    <loc>/categories/example/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/_2018-08-30-markdown-guide/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

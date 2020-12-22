@@ -27,19 +27,5 @@
 Guess what? I almost have some idea of what I&amp;rsquo;m doing with this thing now. Turns out, all I need is a beer and some disco music to actually get down to the business of get my blog upright.</description>
     </item>
     
-    <item>
-      <title>Markdown Guide (modified)</title>
-      <link>/posts/_2018-08-30-markdown-guide/</link>
-      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/_2018-08-30-markdown-guide/</guid>
-      <description>An h1 header Paragraphs are separated by a blank line.
-2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
- this one that one the other one  Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.
- Block quotes are written like so.
-They can span multiple paragraphs, if you like.
- Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex.</description>
-    </item>
-    
   </channel>
 </rss>
