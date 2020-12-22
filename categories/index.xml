@@ -6,7 +6,25 @@
     <description>Recent content in Categories on SantiBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business</title>
+      <link>/categories/business/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ramblings</title>
+      <link>/categories/ramblings/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ramblings/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Example</title>
       <link>/categories/example/</link>
