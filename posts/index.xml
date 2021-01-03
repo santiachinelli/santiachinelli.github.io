@@ -6,7 +6,19 @@
     <description>Recent content in Posts on SantiBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books I&#39;m Reading</title>
+      <link>/posts/books/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/books/</guid>
+      <description>Happy 2121! In honor of the change of calendar, I&amp;rsquo;m going to start tracking books I&amp;rsquo;ve read this year and what I thought about them. I know this would likely be easier with Goodreads or similar, but yeah nah.
+Book: Terminal Beach by J.G Ballard
+Book: An Astronaut&amp;rsquo;s Guide to LIfe on Earth by Chris Hadfield
+Book: Soccer in Sun and Shadow by Eduardo Galeano</description>
+    </item>
+    
     <item>
       <title>Nontechnical Meetings</title>
       <link>/posts/better-meetings/</link>
